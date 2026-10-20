@@ -51,7 +51,7 @@ nav a {
     padding: 6px 14px;
     margin: 0 2px;
     border-radius: 4px;
-    transition: all0.3s ease;
+    transition: all 0.3s ease;
 }
 
 nav a:hover, nav a.active {
