@@ -22,7 +22,7 @@ body {
 
 /* 4. HEADER DAN  */
 header {
-    background-color: plum;
+    background-color: rgb(231, 205, 231);
     color: brown;
     padding: 25px 0;
     text-align: center;
@@ -54,7 +54,8 @@ nav a {
     transition: all 0.3s ease;
 }
 
-nav a:hover, nav a.active {
-    background-color: plum(255, 255, 255, 0.25);
+nav a:hover, 
+nav a.active {
+    background-color: plum(255, 255, 2555, 0.25);
     font-weight: bold;
 }
