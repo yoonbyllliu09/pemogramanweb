@@ -1,11 +1,11 @@
 /* 1.variable */
 :root {
     --primary-color : #F1EDF7;
-    --primary-dark : #C686DD;
-    --secondary-color : #4B1F6F;
-    --accent-color : #C686DD;
-    --bg-light : #4B1F6F;
-    --white : #2A123F;
+    --primary-dark : #291f2c;
+    --secondary-color : #F3C8DD;
+    --accent-color : #FF9800;
+    --bg-light : #F1EDF7;
+    --white : #D183A9;
     --text-muted : #F1EDF7;
     --border-color : #9C8CB9;
     --shadow-soft : 0 4px 12px rgba(0, 0, 0, 0.08);
